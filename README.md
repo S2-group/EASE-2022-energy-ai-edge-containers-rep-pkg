@@ -1,5 +1,5 @@
 # Replication Package
-_An empirical study on the Performance and Energy Consumption of AI Containerization Strategies for Computer-Vision Tasks on the Edge_
+This repository contains the replication package of the paper titled _An empirical study on the Performance and Energy Consumption of AI Containerization Strategies for Computer-Vision Tasks on the Edge_ and published at the 25th International Conference on Evaluation and Assessment in Software Engineering (EASE 2022). 
 
 The full dataset including raw data, data analysis python scripts and automatization scripts produced during the study are available below.
 
